@@ -100,6 +100,14 @@ defaults:
       layout: single
       author_profile: true
 
+comments:
+  provider: "facebook"
+  facebook:
+    appid: # optional
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
+
+
 category_archive:
   type: liquid
   path: /categories/
