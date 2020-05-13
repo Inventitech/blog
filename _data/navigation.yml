@@ -1,10 +1,12 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog/
   - title: "Publications"
     url: /publications/
+  - title: "Service"
+    url: /service/
   - title: "About"
     url: /about/
 
