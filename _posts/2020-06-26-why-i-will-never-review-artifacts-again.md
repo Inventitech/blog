@@ -80,11 +80,11 @@ container. Note also that having an image does not make it harder to
 install the software elsewhere (the conditions on the environment are
 in the image, or even better, in a Docker file).
 
-***Suggestion:*** A virtual image should be mandatory. Considering the
-   zoo of virtualization solutions (Docker containers, images, app
-   images), I would even prescribe a certain format for a given
-   track. Exemptions from it should be rare and require explicit
-   permission.
+***Suggestion:*** A virtual machine image should be
+   mandatory. Considering the zoo of virtualization solutions
+   (containers, images, app images), I would even prescribe a certain
+   format for a given track. Exemptions from it should be rare and
+   require explicit permission.
 
 ## This convenient 154,000 line log file reproduces the results.
 
@@ -110,7 +110,7 @@ strictly. An abundance of information spread across a website, README,
 and wiki, can be helpful later on, but adds to the confusion of the
 reviewer. 
 
-***Suggestion*** Artifacts should have one canonical tutorial-style
+***Suggestion:*** Artifacts should have one canonical tutorial-style
    document for reviewers; additional information can be very helpful
    in practice and for later, but should be separate.
 
