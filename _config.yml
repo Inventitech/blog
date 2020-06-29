@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Moritz Beller"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Used to be amateur cyclist, now pro software engineering researcher at a large social network company."
+  bio    : "Used to be [amateur cyclist,](https://gone-cycling.inventitech.com/) now pro software engineering researcher at a large social network company."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
