@@ -143,4 +143,5 @@ verify an artifact -- do I need to inspect the source code? Do I need
 to be able to build it myself? Do I need to mutate the input such as
 to observe mutated output (often times, verifying whether the output
 is still correct is non-trivial, due to step functions, etc.)? Do I
-need to verify all of the original results? Is a sample enough?
+need to verify all of the original results? Is a sample-based
+evaluation enough?
