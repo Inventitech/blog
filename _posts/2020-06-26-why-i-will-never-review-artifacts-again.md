@@ -12,14 +12,15 @@ Recently, I served in the Program Committee of the [Artifact Track of
 ESEC/FSE
 2020,](https://2020.esec-fse.org/track/esecfse-2020-artifacts) a major
 Software Engineering conference. I agreed because I wanted to help a
-friend and I think we need to strengthen the academic principle of
-being able to check and reproduce findings. Moreover, their idea
-sounds simple enough: You install a bit of well-documented software,
-you let it run for a bit, and you check whether the results in the
-paper matched those produced on your computer. However, in practice,
-my experience was less than ideal. In this blog post, I want to talk
-about why and make suggestions for future artifact tracks, helpful
-hopefully for authors, reviewers, and chairs alike.
+friend and I think the Software Engineering community needs to
+strengthen the academic principle checking and reproduce
+results. Moreover, the idea of an artifact track sounds simple enough:
+You install a bit of well-documented software, you let it run for a
+bit, and you check whether the results in the paper match those
+produced on your computer. However, in practice, my experience was
+less than ideal. In this blog post, I talk about why and make
+suggestions for future artifact tracks, helpful hopefully for authors,
+reviewers, and chairs of future artifact tracks alike.
 
 ![Poor Photoshop of ACM badges](/assets/posts/2020-06-26-acm-badges.png)
 
@@ -39,17 +40,18 @@ for reviewing).
 ## Interactive sessions cost time (and nerves)
 
 For ESEC/FSE 2020, there was a one week period in which authors and
-reviewers should converse and tackle problems on GitHub. This makes
+reviewers conversed and tackled problems on GitHub. This makes
 evaluating artifacts much more cumbersome than reviewing a paper,
-which is mostly a one-off task you can freely schedule within 2
-weeks. There is also no clear guidance on how fast one should come
-back to authors in case of a problem. I, for one, have the opinion
-that I should not be required to hot-patch code in the artifact with
-an editor. I still did because I wanted to help the authors. There is
-really no ethical norm on what constitutes good artifact reviewing and
-how to ensure all artifacts are treated equal. All my artifacts
-required multiple interactions with the authors to either get them to
-run or reproduce the results in the paper. 
+which is mostly a one-off task you can freely schedule within at least
+a 2-week time frame. There is also no clear guidance on how fast one
+should come back to authors in case of a problem. I, for one, have the
+opinion that I should not be required to hot-patch code in the
+artifact with an editor. I still did because I wanted to help the
+authors. There is really no ethical norm on what constitutes good
+artifact reviewing and how to ensure all artifacts are treated
+equal. All my artifacts required multiple interactions with the
+authors to either get them to run or reproduce the results in the
+paper.
 
 ***Suggestion:*** Limit the number of interactions per artifact (i.e.,
 authors are allowed 2 clarifications) or limit number of artifacts to
@@ -61,24 +63,23 @@ review (see above).
 laptop. Unfortunately, the system requirements were not always
 documented, so I partly found out after crashing my system or
 overheating the CPU. Not sure how to solve this for folks who do not
-have access to such hardware? I imagine it is quite embarrassing to
-have to come back to the chairs after the artifact assignment and say
-"erm, sorry, I can actually not review any of these five papers."
-Another question is that many artifacts require one to install arcane
-software or apply dubious system changes, which brings me to the next
-point:
+have access to server-grade hardware? I imagine it is quite
+embarrassing to have to come back to the chairs after the artifact
+assignment and say "erm, sorry, I can actually not review any of these
+artifacts."  Another problem is that many artifacts require one to
+install arcane software or apply dubious system changes, which brings
+me to the next point:
 
 ## Nothing works out of the box ...
 
-... except for the one artifact that used a Vagrant image! Is it a
-good use of reviewers' time to having to figure out an install process
-(and typically, a myriad of error messages the original authors had no
-chance of foreseeing)? I think not. A small minority of programs
+... except for the one artifact that used a Vagrant image! Is it good
+use of reviewers' time to have to figure out an install process (and
+typically, a myriad of error messages the original authors had no
+chance of foreseeing)? I think not. A small minority of artifacts
 (e.g., benchmarks) might not want to use virtualization. All others
-(and this should really be 99%): Please, use an image or
-container. Note also that having an image does not make it harder to
-install the software elsewhere (the conditions on the environment are
-in the image, or even better, in a Docker file).
+(and this should really be 99%): Please, use an image. Note also that
+having an image does not make it harder to install the software
+elsewhere.
 
 ***Suggestion:*** A virtual machine image should be
    mandatory. Considering the zoo of virtualization solutions
@@ -89,10 +90,10 @@ in the image, or even better, in a Docker file).
 ## This convenient 154,000 line log file reproduces the results.
 
 Oh, of course, one needs to parse it to get the aggregated results in
-Table 2, but never mind. Just figuring out what output has been
-produced where, and to which piece in the paper it relates is often a
-Sisyphean task. Too many artifact documentations, which are generally
-of poor quality, end with the sentence "This produces the results."
+Table 2, but never mind. Just figuring out *what* output has been
+produced *where*, and to *which piece(s) in the paper* it relates is often a
+Sisyphean task. Too many artifact documentations (which are generally
+of poor quality) end with the sentence "This produces the results."
 Authors, please put yourself in the shoes of the reviewer. On the
 other extreme, there are artifacts that even produce LaTeX tables just
 like they appear in the paper. This is great per se, but at the same
