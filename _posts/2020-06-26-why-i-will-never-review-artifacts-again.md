@@ -11,16 +11,16 @@ tags:
 Recently, I served in the Program Committee of the [Artifact Track of
 ESEC/FSE
 2020,](https://2020.esec-fse.org/track/esecfse-2020-artifacts) a major
-Software Engineering conference. I agreed because I wanted to help a
-friend and I think the Software Engineering community needs to
-strengthen the academic principle checking and reproduce
-results. Moreover, the idea of an artifact track sounds simple enough:
-You install a bit of well-documented software, you let it run for a
-bit, and you check whether the results in the paper match those
-produced on your computer. However, in practice, my experience was
-less than ideal. In this blog post, I talk about why and make
-suggestions for future artifact tracks, helpful hopefully for authors,
-reviewers, and chairs of future artifact tracks alike.
+Software Engineering conference. I agreed to join to help a friend and
+because I think that the Software Engineering community needs to
+strengthen the principle of open and reproducable science. Moreover,
+the idea of an artifact track sounds simple enough: You install a bit
+of well-documented software, you let it run for a bit, and you check
+whether the results in the paper match those produced on your
+computer. However, in practice, my experience was less than ideal. In
+this post, I talk about why and make suggestions for future artifact
+tracks, helpful hopefully for authors, reviewers, and chairs of future
+artifact tracks alike.
 
 ![Poor Photoshop of ACM badges](/assets/posts/2020-06-26-acm-badges.png)
 
