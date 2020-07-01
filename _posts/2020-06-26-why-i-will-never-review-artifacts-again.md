@@ -51,7 +51,9 @@ authors. There is really no ethical norm on what constitutes good
 artifact reviewing and how to ensure all artifacts are treated
 equal. All my artifacts required multiple interactions with the
 authors to either get them to run or reproduce the results in the
-paper.
+paper. Couple the work amount with the lack of prestige that reviewing
+for an artifact track has, and you end up with a combination that does
+not sound so attractive anymore.
 
 ***Suggestion:*** Limit the number of interactions per artifact (i.e.,
 authors are allowed 2 clarifications) or limit number of artifacts to
@@ -135,7 +137,7 @@ GitHub has other issues, too. GitHub is not great in
 > Wasn't this just a bitcoin miner in disguise with a static
   printf buried somewhere that outputs the results?
 
-Despite putting lots of time into the artifacts track (over 25h!), I
+Despite putting lots of time into the artifacts track (over 30h!), I
 would not be 100% confident in excluding this. Sure, I would be
 negatively surprised, but can I rule it out? Honest answer: no.
 
