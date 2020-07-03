@@ -1,1 +1,13 @@
 <link rel="icon" type="image/png" href="/assets/images/mbeller0_32.png" />
+
+{% if jekyll.environment == 'production' %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49032236-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49032236-1');
+</script>
+{% endif %}
