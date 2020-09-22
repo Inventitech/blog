@@ -10,6 +10,7 @@ Programming research and Algorithmics.</a></p>
 <h4>Chair</h4>
 <p>I am honored to be ...</p>
 <ul>
+<li>Industry Track co-Chair of ESEC/FSE 2021.</li>
 <li>Mining Challenge chair of MSR 2017.</li>
 <li>Social media co-chair of SCAM 2016.</li>
 </ul>
@@ -29,6 +30,7 @@ Programming research and Algorithmics.</a></p>
 <li>MSR 2020.</li>
 <li>MSR 2020, Mining Challenge.</li>
 <li>ESEC/FSE 2020, Artifact Evaluation.</li>
+<li>MSR 2021.</li>
 </ul>
 
 <h4>Reviewing</h4>
