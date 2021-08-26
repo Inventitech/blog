@@ -52,7 +52,8 @@ Moreover, perhaps we shared too much information with authors (making reviews im
 We received a (likely) record number of 61 submissions, and quite accurately predicted this. Out of those, we accepted 23 (39%). With an increased PC and a new reviewing mode, we could still reduce the average review workload to 3.5 in the first round and only 1 paper in the second round. We were also able to acquire new reviewing blood via the (self-)nomination form. FSE was the first major SE conference to use optional double-blind submissions; we are happy to report that not only did a third of the submissions make use of this, but that it also caused no problems during reviewing. When we desinged all this in the beginning, we had no idea that HotCrp technically supported all our non-standard ideas  (e.g., sending out early-rejections). While it definitely lacks a user friendly interface, we were at least able to botch everything. It was also great to work with Miltos, who was pro-active and helped out when I wasn't available. Finally and most important, we were able to keep all deadlines.
 
 
+# Going fully virtual
+While there was originally (and as recently as two months ago) hope that ESEC/FSE 2021 would be at least a hybird conference (with a pyhsical event), this unfortunately turned out not to be the case. There was also no opportunity for the chairs to open the Industry track, present some statistics about the track, and thank authors and reviewers (which is in part why I wrote this post).
 
-
-If future chairs want our material, we archived everything, which hopefully makes chairing the track in the future much less work. A big thanks to Andrew Bagel from the 2019 edition of the FSE Industry track, who provided us with valuable insights.
+If future chairs want our material, we archived everything, which hopefully makes chairing the track in the future much less work. A big thanks to our PC and Andrew Bagel, chair of the 2019 edition of the FSE Industry track, who provided us with valuable insights.
 
