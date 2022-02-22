@@ -2,10 +2,26 @@
 permalink: /publications/
 title: "Publications"
 ---
-Sorted in chronological order.
+Sorted in (reverse) chronological order.
 
 <h4>Peer-Reviewed</h4>
 <table class="table table-striped table-hover">
+<tr>
+<td style="width: 25%"> Journal Article</td>
+<td>Joseph Hejderup, Moritz Beller, Konstantinos Triantafyllou, Georgios Gousios
+<br><strong><i class="far
+fa-file-pdf"></i> <a href="">Präzi: From Package-based to Call-based Dependency Networks</a></strong>
+in Empirical Software Engineering (EMSE), 2022.
+<br><a href="">Cite it (BibTeX entry)</a> &bull; Accepted as Journal First at ICSE 2022</td>
+</tr>
+<tr>
+<td style="width: 25%"> Conference Paper</td>
+<td>Moritz Beller, Chu-Pan Wong, Johannes Bader, Andrew Scott, Mateusz Machalica, Satish Chandra, Erik Meijer
+<br><strong><i class="far
+fa-file-pdf"></i> <a href="">What It Would Take to Use Mutation Testing in Industry--A Study at Facebook</a></strong>
+in 43rd International Conference on Software Engineering (ICSE), Software Engineering in Practice (SEIP), Madrid (Spain), held virtually, 2021.
+<br><a href="">Cite it (BibTeX entry)</a> &bull; <a href="https://www.youtube.com/watch?v=dPhPr1nkRxU">Presentation</a> &bull; Acceptance Rate 34%</td>
+</tr>
 <tr>
 <td style="width: 25%"> Conference Paper</td>
 <td>Carolin Brandt, Annibale Panichella, Andy Zaidman, Moritz Beller:<br><strong><i class="far
@@ -40,7 +56,7 @@ in 40th International Conference on Software Engineering (ICSE), Gothenburg (Swe
 <td>Moritz Beller, Georgios Gousios, Annibale Panichella, Sebastian Proksch, Sven Amann, Andy Zaidman:<br><strong><i class="far
 fa-file-pdf"></i> <a href="/assets/publications/2017_beller_gousios_panichella_amann_proksch_zaidman_developer_testing_in_the_ide_patterns_beliefs_and_behavior.pdf">Developer
 Testing in the IDE: Patterns, Beliefs, and Behavior</a></strong>
-to appear in IEEE Transactions on Software Engineering (TSE), 2017.
+in IEEE Transactions on Software Engineering (TSE), 2017.
 <br><a href="/assets/publications/2017_beller_gousios_panichella_amann_proksch_zaidman_developer_testing_in_the_ide_patterns_beliefs_and_behavior.bib">Cite it (BibTeX entry)</a> </td>
 </tr>
 <tr>
