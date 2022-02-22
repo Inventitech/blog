@@ -10,17 +10,17 @@ Sorted in (reverse) chronological order.
 <td style="width: 25%"> Journal Article</td>
 <td>Joseph Hejderup, Moritz Beller, Konstantinos Triantafyllou, Georgios Gousios
 <br><strong><i class="far
-fa-file-pdf"></i> <a href="">Präzi: From Package-based to Call-based Dependency Networks</a></strong>
+fa-file-pdf"></i> <a href="2022_beller_hejderup_beller_triantafyllou_gousios_prazi_from_package-based_to_call-based_dependency_networks.pdf">Präzi: From Package-based to Call-based Dependency Networks</a></strong>
 in Empirical Software Engineering (EMSE), 2022.
-<br><a href="">Cite it (BibTeX entry)</a> &bull; Accepted as Journal First at ICSE 2022</td>
+<br><a href="2022_beller_hejderup_beller_triantafyllou_gousios_prazi_from_package-based_to_call-based_dependency_networks.bib">Cite it (BibTeX entry)</a> &bull; Also accepted as Journal First Presentation at ICSE 2022</td>
 </tr>
 <tr>
 <td style="width: 25%"> Conference Paper</td>
 <td>Moritz Beller, Chu-Pan Wong, Johannes Bader, Andrew Scott, Mateusz Machalica, Satish Chandra, Erik Meijer
 <br><strong><i class="far
-fa-file-pdf"></i> <a href="">What It Would Take to Use Mutation Testing in Industry--A Study at Facebook</a></strong>
+fa-file-pdf"></i> <a href="/assets/publications/2021_beller_wong_bader_scott_machalica_chandra_meijer_what_it_would_take_to_use_mutation_testing_in_industry_a_study_at_facebook.pdf">What It Would Take to Use Mutation Testing in Industry--A Study at Facebook</a></strong>
 in 43rd International Conference on Software Engineering (ICSE), Software Engineering in Practice (SEIP), Madrid (Spain), held virtually, 2021.
-<br><a href="">Cite it (BibTeX entry)</a> &bull; <a href="https://www.youtube.com/watch?v=dPhPr1nkRxU">Presentation</a> &bull; Acceptance Rate 34%</td>
+<br><a href="/assets/publications/2021_beller_wong_bader_scott_machalica_chandra_meijer_what_it_would_take_to_use_mutation_testing_in_industry_a_study_at_facebook.bib">Cite it (BibTeX entry)</a> &bull; <a href="https://www.youtube.com/watch?v=dPhPr1nkRxU">Presentation</a> &bull; Acceptance Rate 34%</td>
 </tr>
 <tr>
 <td style="width: 25%"> Conference Paper</td>
