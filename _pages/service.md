@@ -31,6 +31,8 @@ Programming research and Algorithmics.</a></p>
 <li>MSR 2020, Mining Challenge.</li>
 <li>ESEC/FSE 2020, Artifact Evaluation.</li>
 <li>MSR 2021.</li>
+<li>ICSE 2022.</li>
+<li>MSR 2022.</li>
 </ul>
 
 <h4>Reviewing</h4>
@@ -59,6 +61,7 @@ Symposium on the Foundations of Software Engineering)</li>
 <li>JSS 2019</li>
 <li>EMSE 2020</li>
 <li>JSS 2020</li>
+<li>TSE 2021</li>
 </ul>
 
 <h4>Teaching</h4>
@@ -90,9 +93,11 @@ visualization tool</a> (together with
 </ul>
 
 <h4>Invited Talks and Presentations</h4>
-<p>I have attended the Dagstuhl seminar on Automatic Quality Assurance and Release from 19.3. - 21.3.2018.</p>
+<p>I was invited for the Dagstuhl seminar on Theories of Programming from 6.6. to 10.6.2022.</p>
+<p>I have attended the Dagstuhl seminar on Automatic Quality Assurance and Release from 19.3. to 21.3.2018.</p>
 <p>I have given these presentations ...</p>
 <ul>
+<li><a href="https://www.youtube.com/watch?v=_TMqu7u8lGk">Learning to Predict Performance Regressions in Production</a> at the Performance Summit, London (United Kingdom), 30.9.2021</li>
 <li><a href="https://www.slideshare.net/inventitech/toward-an-empirical-theory-of-feedbackdriven-development">Toward an Empirical Theory of Feedback-Driven
 Development</a> in National Symposium Software Engineering The
 Netherlands at Centrum Wiskunde & Informatica (CWI), Amsterdam (The Netherlands), 2.2.2018</li>
