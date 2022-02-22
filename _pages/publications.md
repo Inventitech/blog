@@ -10,7 +10,7 @@ Sorted in (reverse) chronological order.
 <td style="width: 25%"> Journal Article</td>
 <td>Joseph Hejderup, Moritz Beller, Konstantinos Triantafyllou, Georgios Gousios
 <br><strong><i class="far
-fa-file-pdf"></i> <a href="2022_beller_hejderup_beller_triantafyllou_gousios_prazi_from_package-based_to_call-based_dependency_networks.pdf">Präzi: From Package-based to Call-based Dependency Networks</a></strong>
+fa-file-pdf"></i> <a href="/assets/publications/2022_beller_hejderup_beller_triantafyllou_gousios_prazi_from_package-based_to_call-based_dependency_networks.pdf">Präzi: From Package-based to Call-based Dependency Networks</a></strong>
 in Empirical Software Engineering (EMSE), 2022.
 <br><a href="2022_beller_hejderup_beller_triantafyllou_gousios_prazi_from_package-based_to_call-based_dependency_networks.bib">Cite it (BibTeX entry)</a> &bull; Also accepted as Journal First Presentation at ICSE 2022</td>
 </tr>
