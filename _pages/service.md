@@ -37,10 +37,12 @@ Programming research and Algorithmics.</a></p>
 <li>ICSE 2022.</li>
 <li>MSR 2022.</li>
 <li>MSR 2022, Mentor Shadow Track.</li>
+<li>ICSE 2023, Student Research Competition.</li>
+<li>ICSE 2024.</li>
 </ul>
 
 <h4>Reviewing</h4>
-<p>I was a (sub-)reviewer for ...</p>
+<p>I was a reviewer for ...</p>
 <ul><li>MSR 2014 (Conference on Mining Software Repositories)</li>
 <li>MSR 2016</li>
 <li>SCAM 2014 (Source Code Analysis and Manipulation Working Conference)</li>
@@ -49,7 +51,7 @@ Analysis, Evolution, and Reengineering)</li>
 <li>SANER 2016</li>
 <li>ESEC/FSE 2015 (European Software Engineering Conference/ACM SIGSOFT
 Symposium on the Foundations of Software Engineering)</li>
-<li>ESEC/FSE 2017 (research track)</li>
+<li>ESEC/FSE 2017 (Research Track)</li>
 <li>EMSE 2015 (Empirical Software Engineering)</li>
 <li>EMSE 2017</li>
 <li>JSS 2016 (Journal of Systems and Software)</li>
@@ -66,6 +68,7 @@ Symposium on the Foundations of Software Engineering)</li>
 <li>EMSE 2020</li>
 <li>JSS 2020</li>
 <li>TSE 2021</li>
+<li>TSE 2023</li>
 </ul>
 
 <h4>Teaching</h4>
