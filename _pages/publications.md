@@ -7,6 +7,14 @@ Sorted in (reverse) chronological order.
 <h4>Peer-Reviewed</h4>
 <table class="table table-striped table-hover">
 <tr>
+<td style="width: 25%"> Conference Paper</td>
+<td>Moritz Beller, Hongyu Li, Vivek Nair, Vijayaraghavan Murali, Imad Ahmad, Jürgen Cito, Drew Carlson, Gareth Ari Aye, Wes Dyer
+<br><strong><i class="far
+fa-file-pdf"></i> <a href="/assets/publications/2023_beller_li_nair_murali_ahmad_cito_carlson_aye_dyer_learning_to_learn_to_predict_performance_regressions_in_production_at_meta.pdf">Learning to Learn to Predict Performance Regressions in Production at Meta</a></strong>
+in 4th International Conference on Automation of Software Test (AST), Melborune (Australia), 2023.
+<br><a href="/assets/publications/2023_beller_li_nair_murali_ahmad_cito_carlson_aye_dyer_learning_to_learn_to_predict_performance_regressions_in_production_at_meta.bib">Cite it (BibTeX entry)</a> &bull; Acceptance Rate 54%</td>
+</tr>
+<tr>
 <td style="width: 25%"> Journal Article</td>
 <td>Joseph Hejderup, Moritz Beller, Konstantinos Triantafyllou, Georgios Gousios
 <br><strong><i class="far
